@@ -3,10 +3,8 @@
    --| |_) / _` | '_ \ / _ \ '__| |_) | | | | '_ \ 
  ----|  __/ (_| | |_) |  __/ |  |  _ <| |_| | | | |
    --|_|   \__,_| .__/ \___|_|  |_| \_\\__,_|_| |_|
-                |_|  by: Shivang Amin, 250861549
-                         M. Hadi Badawi, 250901077
-                         Philip Victor Radojcic, 250857449
-                         Abdullah Khan, XXXXXXXXXX
+                |_|  by: Philip Radojcic
+                         M. Hadi Badawi
 
 Intro:
 The PaperRun directory contains the Unity 2D project files
@@ -45,6 +43,5 @@ without this asset as the map tiles wont load without it and you will keep falli
 teleported back to spawn until the fire gets you. We check, loading large files for tilemaps
 in unity seems to be a well known problem with no real fix. This only happens the first time
 you load it though.
-
 
 Thanks for reading and enjoy the game!
